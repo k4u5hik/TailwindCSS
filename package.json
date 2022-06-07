@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/k4u5hik/TailwindCSS/issues"
   },
-  "homepage": "https://github.com/k4u5hik/TailwindCSS#readme"
+  "homepage": "https://github.com/k4u5hik/TailwindCSS#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
 }
