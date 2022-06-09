@@ -6,3 +6,6 @@ btn.addEventListener('click', () => {
     nav.classList.toggle('flex')
     nav.classList.toggle('hidden')
 })
+
+// let utterance = new SpeechSynthesisUtterance("Hello world!");
+// speechSynthesis.speak(utterance);
